@@ -1,2 +1,2 @@
-# hello there
+# hello
 ## welcome to markdown protofolio
