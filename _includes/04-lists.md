@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Effective Reading Techniques 
+* Understanding text organization
+* Identifying main points
+* Prediting
+* Inferring and Interpreting
+* Understanding complex sentance
