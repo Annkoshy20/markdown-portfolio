@@ -1,1 +1,2 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+
+![Image of Flower](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2015%2F04%2F19%2F08%2F32%2Fmarguerite-729510__480.jpg&imgrefurl=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fflowers%2F&tbnid=YJ41ekDgpd2x2M&vet=12ahUKEwjmw56tvqr1AhU1_zgGHQjQC6wQMygCegUIARDLAg..i&docid=6QnaOLvEQovLfM&w=737&h=480&itg=1&q=flower&client=ms-android-samsung-rev2&ved=2ahUKEwjmw56tvqr1AhU1_zgGHQjQC6wQMygCegUIARDLAg)
